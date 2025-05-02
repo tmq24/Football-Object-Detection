@@ -68,6 +68,3 @@ Output videos will be saved in the `output/` directory with annotations showing:
 - Player speeds
 - Field boundaries
 
-## License
-
-[MIT License](LICENSE) 
